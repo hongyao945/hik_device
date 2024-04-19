@@ -5,7 +5,7 @@
 #include <cstdio> // 包含字符串格式化函数的头文件
 #include <thread>
 #include <HCNetSDK.h>
-#include <LinuxPlayM4.h>
+//#include <LinuxPlayM4.h>
 
 #include <iostream>
 
